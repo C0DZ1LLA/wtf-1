@@ -1,2 +1,0 @@
-*wtf-1 filter=lfs diff=lfs merge=lfs -text
-*.data filter=lfs diff=lfs merge=lfs -text
